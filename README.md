@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Vats</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" height=40% width =40% src="https://th.bing.com/th/id/OIG.ZrnHBWMOMmTPh5Z2zIcL?w=1024&h=1024&rs=1&pid=ImgDetMain">
-- ⚡ Fun fact **I am funny😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
