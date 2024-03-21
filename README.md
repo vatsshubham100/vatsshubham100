@@ -19,7 +19,8 @@
 <img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vatsshubham100" alt="syssn13" /></p>
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<br>
+<img align="right" src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=abhishekch33&icon=2&color=10)](https://visitcount.itsvg.in)
