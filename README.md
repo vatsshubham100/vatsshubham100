@@ -16,8 +16,9 @@
 
 <p align="left"><img width="50%" vertical-align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsshubham100&show_icons=true&locale=en&layout=compact" alt="vatsshubham100" />
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=vatsshubham100&show_icons=true&locale=en" alt="vatsshubham100" />
-<img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vatsshubham100" alt="syssn13" /></p>
+<img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vatsshubham100" alt="syssn13" /></p>
 
+<br/>
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
