@@ -9,6 +9,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/shubham-vats-66a26324b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham vats" height="30" width="40" /></a>
 <a href="https://www.instagram.com/vatsshubham1000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vatsshubahm1000" height="30" width="40" /></a>
+<a href="https://github.com/vatsshubham100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
