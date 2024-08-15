@@ -40,7 +40,7 @@
     <a href="mailto:vatsshubham100@gmail.com">
         <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30">
     </a>
-    <a href="[https://x.com/vatsshubham100](https://x.com/VatsShubham11)">
+    <a href="https://x.com/VatsShubham11">
         <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="30">
     </a>
     <a href="https://www.instagram.com/vatsshubham1000/">
