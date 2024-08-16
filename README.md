@@ -1,8 +1,8 @@
-<h1 align="center">
+<p1 align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=1000&size=60&pause=1000&color=FF0000&center=true&vCenter=true&width=800&height=160&lines=I'm+Shubham+Vats%F0%9F%A4%B5%E2%80%8D%E2%99%82%EF%B8%8F;Welcome+to+My+Profile!%F0%9F%91%8B"/>
-</h1>
+</p1>
 
-
+---
 
 # 🚀 Embark on My Journey!
 
@@ -77,13 +77,14 @@
 
 ---
 
----
-
----
-
 <h3 align="center" style="color: #FF4500;">⭐ Support My Work by Starring My Repositories!</h3>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=vatsshubham100&theme=radical&border_radius=5.1&card_width=800" alt="GitHub Streak" />
 </p>
+
+---
+
+---
+
 ---
